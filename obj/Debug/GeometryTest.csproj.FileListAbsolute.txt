@@ -1,0 +1,9 @@
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\bin\Debug\GeometryTest.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\bin\Debug\GeometryTest.pdb
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\bin\Debug\nunit.framework.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\bin\Debug\nunit.framework.xml
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\obj\Debug\GeometryTest.csproj.AssemblyReference.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\obj\Debug\GeometryTest.csproj.CoreCompileInputs.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\obj\Debug\GeometryTest.csproj.CopyComplete
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\obj\Debug\GeometryTest.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\GeometryTest\GeometryTest\obj\Debug\GeometryTest.pdb
